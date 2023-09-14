@@ -113,6 +113,7 @@
     display:flex;
 
 }
+
 .conteudo-secundario-divinfo{
 
     display: flex;
@@ -347,12 +348,13 @@
  .card-img1-Cliente {
 
     display: flex;
+
     
  }
 
 .card-img1-Cliente img{
 
-    max-width: 100%;
+    width: 100%;
 
 }
 
